@@ -26,7 +26,7 @@ public class KasirSederhana {
             
             if (user.equals("admin")&& pass.equals("1234")){ // user : admin, pass:1234
                 loginSukses = true;
-                System.out.println("SELAMAT DATAN, ADMIN!");
+                System.out.println("SELAMAT DATANG, ADMIN!");
             } else {
                 percobaan++;
                 System.out.println("LOGIN GAGAL! Silahkan mencoba sebanyak :"+(3-percobaan)+ "\r");
