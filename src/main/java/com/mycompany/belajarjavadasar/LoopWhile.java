@@ -6,6 +6,10 @@ package com.mycompany.belajarjavadasar;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Hype
+ */
 public class LoopWhile {
     public static void main(String[] args){
         Scanner scan = new Scanner (System.in);
