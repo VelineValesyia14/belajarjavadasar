@@ -6,7 +6,12 @@ com\mycompany\belajarjavadasar\KasirSederhana.class
 com\mycompany\belajarjavadasar\Belajarjavadasar.class
 com\mycompany\belajarjavadasar\InputArray.class
 com\mycompany\belajarjavadasar\OperatorLogika.class
+com\mycompany\belajarjavadasar\NilaiMahasiswa.class
+com\mycompany\belajarjavadasar\DemoArray2D.class
+com\mycompany\belajarjavadasar\TampilkanMatriks.class
 com\mycompany\belajarjavadasar\SegiTigaBintang.class
+com\mycompany\belajarjavadasar\DaftarNamaTamu.class
+com\mycompany\belajarjavadasar\MatriksHasil.class
 com\mycompany\belajarjavadasar\RataRataNilai.class
 com\mycompany\belajarjavadasar\LoopDoWhile.class
 com\mycompany\belajarjavadasar\LoopFor.class
