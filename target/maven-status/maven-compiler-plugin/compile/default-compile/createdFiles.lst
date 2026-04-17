@@ -9,6 +9,7 @@ com\mycompany\belajarjavadasar\KasirSederhana.class
 com\mycompany\belajarjavadasar\Belajarjavadasar.class
 com\mycompany\belajarjavadasar\InputArray.class
 com\mycompany\belajarjavadasar\OperatorLogika.class
+com\mycompany\belajarjavadasar\RunProduct.class
 com\mycompany\belajarjavadasar\Laptopn.class
 com\mycompany\belajarjavadasar\NilaiMahasiswa.class
 com\mycompany\belajarjavadasar\DemoArray2D.class
@@ -18,12 +19,17 @@ com\mycompany\belajarjavadasar\PerpustakaanMini.class
 com\mycompany\belajarjavadasar\LoopDoWhile.class
 com\mycompany\belajarjavadasar\LoopWhile.class
 com\mycompany\belajarjavadasar\KalkulatorModular.class
+com\mycompany\belajarjavadasar\Product.class
 com\mycompany\belajarjavadasar\RunMahasiswa.class
+com\mycompany\belajarjavadasar\RekeningBank.class
+com\mycompany\belajarjavadasar\RunBank.class
+com\mycompany\belajarjavadasar\RunMahasiswEnkapsulasi.class
 com\mycompany\belajarjavadasar\TampilkanMatriks.class
 com\mycompany\belajarjavadasar\SegiTigaBintang.class
 com\mycompany\belajarjavadasar\Mahasiswa.class
 com\mycompany\belajarjavadasar\DaftarNamaTamu.class
 com\mycompany\belajarjavadasar\RataRataNilai.class
+com\mycompany\belajarjavadasar\MahasiswaEnkapsulasi.class
 com\mycompany\belajarjavadasar\LoopFor.class
 com\mycompany\belajarjavadasar\KalkolatorOOP.class
 Operasiaritmatika.class
