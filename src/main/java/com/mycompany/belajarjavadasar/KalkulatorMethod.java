@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Hype
  */
-public class KalkulatorModular {
+public class KalkulatorMethod {
     static double tambah (double a, double b){
         return a+b;
     }

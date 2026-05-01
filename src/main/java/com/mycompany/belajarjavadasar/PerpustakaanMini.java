@@ -13,7 +13,8 @@ public class PerpustakaanMini {
         "Pasta Kacang Merah",
         "Laut Biru",
         "Cantik Itu Luka",
-        "Negeri Para Bedebah"
+        "Negeri Para Bedebah",
+        "Le Petit Prince"
     };
     
     static void tampilDaftarBuku(){

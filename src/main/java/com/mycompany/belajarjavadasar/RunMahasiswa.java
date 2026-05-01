@@ -16,7 +16,7 @@ public class RunMahasiswa {
         mhs1.tampilInfo();
         mhs2.tampilInfo();
         
-        System.out.println("IPK"+ mhs1.nama+"adalah"+mhs1.ipk);
+        System.out.println("IPK "+ mhs1.nama+" adalah"+mhs1.ipk);
         
         mhs1.belajar();
         mhs2.belajar();

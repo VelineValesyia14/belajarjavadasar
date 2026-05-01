@@ -19,7 +19,7 @@ public class RunLaptopn {
         laptop2.tampilSpek();
         
         int hargaDiskon = laptop1.diskon(10);
-        System.out.println("Harga"+laptop1.merk+"menjadi"+hargaDiskon+"dengan potongan spesial!");
+        System.out.println("Harga "+laptop1.merk+" menjadi"+hargaDiskon+" dengan potongan spesial!");
         
     }
 }
